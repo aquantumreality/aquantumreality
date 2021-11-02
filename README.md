@@ -5,7 +5,7 @@
 - An ML/DS newbie, trying to explore the vast field of DL alongside too.
 - 👀 I’m interested in Machine Learning, Deep Learning, Reinforcement Learning, Ethical Hacking and computer security. 
 - 🌱 I’m currently learning about CNNs, NLP, and CTFs. 
-- 📫 How to reach me: abhiram3001rao@gmail.com
+- 📫 How to reach me: abhiram3001rao@gmail.com/ gabhiram@smail.iitm.ac.in
 - 🤔 I’m looking for help with my noob programming skills.
 - 💬 Ask me about : literally anything you want xD
 
