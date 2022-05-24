@@ -1,6 +1,6 @@
 ### Hi there, 👋   I'm Abhiram
 
-- An Electrical Engineering Undergraduate at IIT Madras, exploring the fields of Digital Design and Computer Organization.  
+- An Electrical Engineering Undergraduate at IIT Madras, exploring the fields of Digital and Analog Design, Signal Processing.
 #### Apart from this: 
 - An ML/DS newbie, trying to explore the vast field of DL alongside too.
 - 👀 I’m interested in Machine Learning, Deep Learning, Reinforcement Learning and computer security. 
