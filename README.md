@@ -1,13 +1,14 @@
 ### Hi there, 👋   I'm Abhiram
 
-- An Electrical Engineering Undergraduate at IIT Madras, exploring the fields of Signal Processing, Digital and Analog Design.
+- An Electrical Engineering Undergraduate at IIT Madras, and my current goal is formulating mathematical frameworks and establishing fundamental limits for real-world systems, with applications in privacy, communications and machine learning. 
+
 #### Apart from this: 
-- An ML/DS enthusiast, exploring these vast fields. 
-- 👀 I’m interested in Machine Learning, Deep Learning, Reinforcement Learning and computer security. 
-- 🌱 I’m currently working on RL, CNNs, and NLP alongside my coursework, delving into HFT as well. 
-- 📫 How to reach me: abhiram3001rao@gmail.com/ gabhiram@smail.iitm.ac.in
-- 🤔 I’m looking for help with my noob programming skills.
-- 💬 Ask me about : literally anything you want xD
+- An ML/Signal Processing enthusiast, I've also worked on problems in Game Theory, Wireless Sensing, Graph Neural Networks, Non-Linear Control and Reinforcement Learning. 
+- 👀 My research interests mainly include Information Theory, Statistical Inference and Machine Learning.
+- 🌱 I’m currently working at the intersection of Generative AI and Information Theory, building upon fundamental ideas 
+- 📫 How to reach me: abhiram3001rao@gmail.com/gabhiram@smail.iitm.ac.in
+- 🤔 I am constantly on the look out for newer, challenging projects/other ventures. If you are interested in collaborating/working with me on something interesting, feel free to reach out to me at gabhiram [at] smail [dot] iitm [dot] ac [dot] in.
+- 💬 Ask me about : literally anything you want :D
 
 ### 📈 GitHub Stats 
 
